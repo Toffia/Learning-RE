@@ -2,29 +2,28 @@
 #include <string.h>
 #include <stdlib.h>
 
-int main(int argc, char* argv[]) {
-	char userInput[11];
-	char currentPassword[] = "1212121212";
+int main(int argc, char* argv[]) 
+{
 
-	memset(userInput, 0, sizeof(userInput));
+	char key[] = "AABBCCDDEEFF";
 
-	printf("Insert key: ");
-	scanf_s("%s", userInput);
-
-	if (strlen(userInput) > sizeof(userInput)) {
-		printf("ERROR. License key should contains 10 symbols.\n");
-		system("pause");
-		return 1;
-	} 
-
-	if (strcmp(userInput, currentPassword) != 0) {
-		printf("ERROR. Your license key is invalid.\n");
-		system("pause");
+	if (argc !=2)
+	{
+		printf("\nUsage: %s <license key>\n");
 		return 1;
 	}
-		
-	printf("Congratulations! Your copy of application is licensed.\n");
-	
-	system("pause");
+
+	if (strlen(argv[1]) != strlen(key))
+	{
+		printf("\nERROR. License key should contains 12 symbols.\n");
+		return 1;
+	}
+
+	if (strcmp(argv[1], key) != 0)
+	{
+		printf("\nERROR. License key is incorrect.\n");
+	}
+
+	printf("\nCongratulations! License key is correct.\n");
 	return 0;
 }
