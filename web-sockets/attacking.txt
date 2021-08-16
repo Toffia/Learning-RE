@@ -14,3 +14,28 @@ https://www.neuralegion.com/blog/websocket-security-top-vulnerabilities/#authent
 
 wss pentesting
 https://portswigger.net/web-security/websockets
+
+ДОПЫ
+
+-----------------------------------
+
+	websockets-security-attacks-risks
+	https://www.vaadata.com/blog/websockets-security-attacks-risks/
+
+	http реквест vulnurabiliteis
+	https://portswigger.net/web-security/request-smuggling/exploiting
+
+	What is directory traversal, and how to prevent it? | Web Security Academy
+	https://portswigger.net/web-security/file-path-traversal
+
+	OWASP | Path Traversal
+	https://owasp.org/www-community/attacks/Path_Traversal 
+
+	PayloadsAllTheThings/Directory Traversal
+	https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Directory%20Traversal
+	
+	PayloadsAllTheThings/Open Redirect
+	https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Open%20Redirect
+
+	LimeSurvey 4.1.11 - 'File Manager' Path Traversal 
+	https://www.exploit-db.com/exploits/48297
