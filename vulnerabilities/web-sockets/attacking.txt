@@ -1,0 +1,41 @@
+------
+https://lab.wallarm.com/cve-2020-24807-preventing-critical-socket-io-vulnerability/
+https://hackerone.com/reports/873614
+https://hackerone.com/reports/395729
+https://github.com/codingchili/CVE-2020-14368
+https://www.trendmicro.com/en_us/research/19/d/uncovering-cve-2019-0232-a-remote-code-execution-vulnerability-in-apache-tomcat.html
+------
+
+Фаззер WebSocket
+https://github.com/andresriancho/websocket-fuzzer
+
+Подборка уязвимостей WebSocket
+https://www.neuralegion.com/blog/websocket-security-top-vulnerabilities/#authentication-during-handshake
+
+wss pentesting
+https://portswigger.net/web-security/websockets
+
+ДОПЫ
+
+-----------------------------------
+
+	websockets-security-attacks-risks
+	https://www.vaadata.com/blog/websockets-security-attacks-risks/
+
+	http реквест vulnurabiliteis
+	https://portswigger.net/web-security/request-smuggling/exploiting
+
+	What is directory traversal, and how to prevent it? | Web Security Academy
+	https://portswigger.net/web-security/file-path-traversal
+
+	OWASP | Path Traversal
+	https://owasp.org/www-community/attacks/Path_Traversal 
+
+	PayloadsAllTheThings/Directory Traversal
+	https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Directory%20Traversal
+	
+	PayloadsAllTheThings/Open Redirect
+	https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Open%20Redirect
+
+	LimeSurvey 4.1.11 - 'File Manager' Path Traversal 
+	https://www.exploit-db.com/exploits/48297
