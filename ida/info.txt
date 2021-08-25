@@ -1,0 +1,10 @@
+Al Reversing Con Ida Pro Desde Cero
+
+https://yutewiyof.gitbook.io/intro-rev-ida-pro - REV IDA PRO (ПЕРЕВОД ОТ ЯШИ)
+
+IDA PRO BOOK 
+
+http://www.idabook.com/examples/index.html -материалы 
+https://book-erix.info/perevod-knigi-the-ida-pro-book-2nd-edition-chris-102778/ - русский перевод
+
+http://index-of.co.uk/Reversing-Exploiting/The.IDA.Pro.Book.2nd.Edition.Jun.2011.pdf - original
