@@ -1,0 +1,8 @@
+Cross-site request forgery (CSRF)
+https://portswigger.net/web-security/csrf
+
+Безопасность приложений на Rails (CSRF)
+http://rusrails.ru/ruby-on-rails-security-guide
+
+Полный список CSRFок
+https://portswigger.net/web-security/csrf
