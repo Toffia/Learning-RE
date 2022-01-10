@@ -1,5 +1,0 @@
-INFORMATION
-https://github.com/daffainfo/AllAboutBugBounty/blob/master/Host%20Header%20Injection.md
-
-https://github.com/keramatAlijani/Host-Header-Attack-Test
-https://github.com/Ramikan/Vulnerabilities/blob/master/GoAhead%20Web%20server%20HTTP%20Header%20Injection

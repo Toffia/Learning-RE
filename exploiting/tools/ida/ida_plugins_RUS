@@ -1,0 +1,25 @@
+
+https://github.com/ReFirmLabs/binwalk/wiki/Using-the-Binwalk-IDA-Plugin
+
+https://github.com/Hugues92/IDA_ClassInformer_Modified поиск vtable 
+https://github.com/rcx/classinformer-ida7/releases
+
+https://github.com/Cisco-Talos/GhIDA/blob/master/img/ghida_decomp.png - ghidra в ida
+
+https://github.com/a1ext/auto_re - автоматические имена для функций, тэги
+
+https://github.com/alexhude/FRIEND - подсказки IDA
+
+https://github.com/Ga-ryo/IDAFuzzy - прыжки до функций одной клавишей SHIFT + SPACE
+
+https://github.com/nologic/idaref - еще одни подсказки, ассемблерные инструкции
+
+https://github.com/tacnetsol/ida/tree/master/plugins/rizzo - типо FLIRT
+
+https://github.com/Maktm/FLIRTDB - АДШКЕ
+
+IDA все плагины
+https://github.com/xrkk/awesome-ida/blob/master/Readme_en.md
+
+https://www.fireeye.com/blog/threat-research/2015/01/flare_ida_pro_script.html - ОБЗОР FLIRT
+

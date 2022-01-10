@@ -1,0 +1,4 @@
+https://we45.com/blog/3-ways-to-exploit-cors-misconfiguration
+
+CORSY
+https://github.com/s0md3v/Corsy/
